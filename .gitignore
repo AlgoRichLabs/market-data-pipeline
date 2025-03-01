@@ -1,3 +1,7 @@
 .idea
 .env
 .venv
+/target
+*.log
+/history-data
+config.toml
